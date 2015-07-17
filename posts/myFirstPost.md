@@ -1,5 +1,5 @@
 ---
-title: Setting up a Blog on Crouton
+title: Setting up a Blog on Crouton from the Underpants Gnomes
 ---
 
 ##3 easy steps:
