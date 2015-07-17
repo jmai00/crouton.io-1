@@ -1,9 +1,22 @@
 ---
-title: Noah's First Blog Post 
+title: Setting up a Blog on Crouton
 ---
 
-##Crouton is officially the shit!
+##3 easy steps:
 
+###Step 1.
 ```
-console.log('hell yes!');
+window.location = 'http://www.crouton.io';
+```
+
+###Step 2.
+```
+mouse.click('signup or login')
+```
+
+###Step 3.
+```
+Github.authorize.access = true;
+//???
+profit();
 ```
